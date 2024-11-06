@@ -1,3 +1,6 @@
+# Chronos
+## By Zasharan2
+Chronos is a befunge-based esoteric programming language whose main feature is the ability to travel through time. Through the use of the "t" instruction, cursors within a program may time travel, creating a branch universe that has its own cursor.<br /><br />
 Run:<br />
     To run a program, run the python file chronos.py, followed with --file FILENAME, where FILENAME is the file you wish to run.<br />
     All chronos files should have a .time extension.<br />
