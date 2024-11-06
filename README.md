@@ -1,8 +1,8 @@
 Run:
-    To run a program, run the python file chronos.py, followed with --file FILENAME, where FILENAME is the file you wish to run.
-    All chronos files should have a .time extension.
-    If you wish to view the program space as the program runs, you may use the --debug toggle to turn on debug mode.
-    If you wish to "step" through each moment, you may use the --step toggle to turn on step mode, and press enter each time you wish to "step".
+To run a program, run the python file chronos.py, followed with --file FILENAME, where FILENAME is the file you wish to run.
+All chronos files should have a .time extension.
+If you wish to view the program space as the program runs, you may use the --debug toggle to turn on debug mode.
+If you wish to "step" through each moment, you may use the --step toggle to turn on step mode, and press enter each time you wish to "step".
 
 Syntax:
     > = set cursor orientation right
